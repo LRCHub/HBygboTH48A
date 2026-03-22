@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Loveable",
+  "base_artist": "SINB (GFRIEND)",
+  "createdAt": "2026-03-22T06:24:37.131849Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Loveable",
+      "artist": "Gwen Stefani",
+      "has_synced": true,
+      "path": "select/01_Loveable_Gwen_Stefani.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Vince The Loveable Stoner",
+      "artist": "The Fratellis",
+      "has_synced": true,
+      "path": "select/02_Vince_The_Loveable_Stoner_The_Fratellis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Loveable (International)",
+      "artist": "Gwen Stefani",
+      "has_synced": true,
+      "path": "select/03_Loveable_(International)_Gwen_Stefani.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Loveable",
+      "artist": "JO YURI",
+      "has_synced": true,
+      "path": "select/04_Loveable_JO_YURI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Loveable",
+      "artist": "Jo Yu Ri",
+      "has_synced": true,
+      "path": "select/05_Loveable_Jo_Yu_Ri.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "사랑스러워 (Loveable)",
+      "artist": "김종국",
+      "has_synced": true,
+      "path": "select/06_사랑스러워_(Loveable)_김종국.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Vince the Loveable Stoner (Napster Live Mix)",
+      "artist": "The Fratellis",
+      "has_synced": true,
+      "path": "select/07_Vince_the_Loveable_Stoner_(Napster_Live_Mix)_The_Fratellis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Vince the Loveable Stoner",
+      "artist": "Fratellis, The",
+      "has_synced": true,
+      "path": "select/08_Vince_the_Loveable_Stoner_Fratellis,_The.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Loveable",
+      "artist": "Eliza",
+      "has_synced": true,
+      "path": "select/09_Loveable_Eliza.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Loveable",
+      "artist": "LeVert",
+      "has_synced": false,
+      "path": "select/10_Loveable_LeVert.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Loveable (From Your Head to Your Toes)",
+      "artist": "Kenny Lattimore & Chanté Moore",
+      "has_synced": false,
+      "path": "select/11_Loveable_(From_Your_Head_to_Your_Toes)_Kenny_Lattimore_&_Chanté_Moore.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Vince The Loveable Stoner",
+      "artist": "Fratellis",
+      "has_synced": true,
+      "path": "select/12_Vince_The_Loveable_Stoner_Fratellis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Loveable",
+      "artist": "Piroshka",
+      "has_synced": false,
+      "path": "select/13_Loveable_Piroshka.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Loveable Girl",
+      "artist": "Carr, James",
+      "has_synced": false,
+      "path": "select/14_Loveable_Girl_Carr,_James.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Loveable",
+      "artist": "SinB",
+      "has_synced": false,
+      "path": "select/pl_01_Loveable_SinB.txt"
+    }
+  ]
+}
